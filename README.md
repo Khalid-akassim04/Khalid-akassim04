@@ -18,4 +18,4 @@ Projects coming soon. I'll be sharing analyses of product growth, pricing, custo
 Product Strategy | Business Analytics | Financial Analysis
 
 ## Connect
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/khalid-kassim-48b657221/
