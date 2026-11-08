@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Khalid!
 
-<!--
-**Khalid-akassim04/Khalid-akassim04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Product Management | Business Analytics | Strategy
 
-Here are some ideas to get you started:
+I'm a Business Administration student at UNC-Chapel Hill interested in product management, technology, and data-driven business strategy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- SQL
+- Excel
+- Python
+- Power BI
+- PowerPoint
+
+## Featured Projects
+Projects coming soon. I'll be sharing analyses of product growth, pricing, customer retention, and business performance.
+
+## Professional Interests
+Product Strategy | Business Analytics | Financial Analysis
+
+## Connect
+- LinkedIn: [Add your LinkedIn URL]
